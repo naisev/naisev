@@ -1,6 +1,5 @@
 ## Hi, there 👋
 
-
 #### Language
 [![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=ffffff)](https://openjdk.org/)
 [![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/)
@@ -24,17 +23,6 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-
-![](https://img.shields.io/badge/EYHN%20❤️-FFF?style=flat-square)
-![](https://img.shields.io/badge/Rust-E34F26?style=flat-square&logo=Rust&logoColor=ffffff)
-![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
-
-![](https://img.shields.io/badge/Creating%20with-FFF?style=flat-square)
-[![](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
-[![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)](https://www.figma.com/)
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
-
-
 
 <br/>
 
