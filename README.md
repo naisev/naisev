@@ -27,4 +27,4 @@
 <br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=naisev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naisev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naisev&layout=compact&theme=tokyonight)
